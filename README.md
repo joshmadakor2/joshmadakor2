@@ -3,7 +3,7 @@ Hi, I'm Timmy, a passionate learner and enthusiast who is currently exploring th
 
 ## Projects
 
-* [Using Azure Storage to Host a Web Site](https://github.com/joshmadakor2/azurestroage)
+* [Using Azure Storage to Host a Web Site](https://github.com/joshmadakor2/azurestorage)
 * [Project 2](https://github.com/username/project2)
 * [Project 3](https://github.com/username/project3)
 
